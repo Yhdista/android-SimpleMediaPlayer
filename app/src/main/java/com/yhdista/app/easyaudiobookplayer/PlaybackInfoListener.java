@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.example.android.mediaplayersample;
+package com.yhdista.app.easyaudiobookplayer;
 
 import android.support.annotation.IntDef;
 
